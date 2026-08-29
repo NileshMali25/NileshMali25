@@ -44,6 +44,11 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 📅 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshMali25&theme=github-compact&color=3DDC84&bg_color=000000&hide_border=true" width="90%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NileshMali25&theme=github-compact&hide_border=true"
+    width="90%"
+    alt="Nilesh Mali GitHub Activity Graph"
+  />
 </p>
