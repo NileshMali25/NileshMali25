@@ -42,13 +42,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=NileshMali25&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 📅 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NileshMali25&theme=github-compact&hide_border=true"
-    width="90%"
-    alt="Nilesh Mali GitHub Activity Graph"
-  />
-</p>
