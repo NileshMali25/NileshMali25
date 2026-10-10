@@ -1,3 +1,14 @@
+# 💫 About Me
+
+Hi, I'm **Nilesh Supadu Mali** 👋
+
+I am a Third-year Engineering student specializing in **Artificial Intelligence and Data Science** . I am passionate about **Data Science, Machine Learning, AI, and Full-Stack Web Development**. I enjoy building innovative, scalable, and impactful solutions that solve real-world problems.
+
+💻 I work with **Python, Java, JavaScript, React, Node.js, Express.js, MongoDB, and MySQL**, along with libraries and tools such as Pandas, NumPy, and Scikit-learn. I enjoy developing full-stack applications and machine learning projects that combine intelligent systems with user-friendly interfaces.
+
+🚀 I actively work on personal projects, explore new technologies, and continuously improve my problem-solving and development skills. I am currently focused on strengthening my knowledge of **Data Science, Machine Learning, Generative AI, and Backend Development**.
+
+📌 Always learning, building, and growing! 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nilu12969@gmail.com) 
